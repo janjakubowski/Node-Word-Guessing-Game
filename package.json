@@ -1,0 +1,22 @@
+{
+  "name": "node-word-guessing-game",
+  "version": "1.0.0",
+  "description": "Week 11 - Word Guessing Game using node.js and the terminal",
+  "main": "NodeWordGuessingGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janjakubowski/Node-Word-Guessing-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janjakubowski/Node-Word-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/janjakubowski/Node-Word-Guessing-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
